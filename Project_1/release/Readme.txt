@@ -1,0 +1,1 @@
+release folder for store FW release binary
